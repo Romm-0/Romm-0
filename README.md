@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rafael Oliveira Montagner Melatti
+Hi, my name is Rafael Oliveira Montagner Melatti
 ==========================================================================================================================================================
 
 I'm currently studying Software Engineering at [UnB](https://www.unb.br/) and I'm interested in areas such as software development for the financial market and embedded systems.
